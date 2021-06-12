@@ -1,3 +1,7 @@
+input:focus {
+  outline: none;
+}
+
 header {
   width: 100%;
   height: 3.5rem;
@@ -6,6 +10,14 @@ header {
   padding: 0;
   transform: translateX(0);
   background: #fff;
+}
+.cover {
+  width: 100%;
+  height: 97.35rem;
+  background-color: rgba(70, 33, 173,.8);
+  position: absolute;
+  top: 0;
+  right: 0;
 }
 header h1 {
   position:absolute;
@@ -94,4 +106,129 @@ header .btn_menu{
 }
 header .btn_menu.active{
   background-image: url('../images/small-down@3x.png');
+}
+.container {
+  width: 100%;
+  top: 3.05rem;
+}
+.title {
+  margin-top: 5.35rem;
+  width: 100%;
+  height: 10rem;
+  display: block;
+}
+.title h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: left;
+  margin-left: 2.75rem;
+  width: 7.4rem;
+}
+.title p {
+  display: block;
+  width: 13.25rem;
+  text-align: left;
+  margin-left: 2.75rem;
+  margin-top: 3rem;
+}
+.sub {
+  display: block;
+  margin-top: 4.2rem;
+}
+.container .sub-title {
+  width: 13.66rem;
+  height: 7.8315rem;
+  margin: 0 auto 1.1685rem;
+}
+.container .sub-title h2 {
+  font-size: .75rem;
+  font-weight: 700;
+}
+.container .sub-title p {
+  font-size: .7rem;
+}
+.container .sub-title .image {
+  width: 3.6425rem;
+  height: 3.6425rem;
+  margin: 0 auto;
+}
+.sign-btn .gender,
+.sign-btn input,
+.sign-btn .btn_plus {
+  display: block;
+} 
+.sign-btn {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  background-color: #fff;
+  border-radius: .8rem;
+  width: 15.3835rem;
+  height: 28.6rem;
+}
+.sign-btn .btn {
+  width: 5.1335rem;
+  height: 1.4905rem;
+  border-radius: 1.1rem;
+  border: 1px solid #4621ad;
+  font-size: .85rem;
+  box-sizing: border-box;
+  background: #fff;
+  color: #4621ad;
+  margin: 2.4rem auto 0;
+}
+.sign-btn .btn:hover {
+  border: 1px solid #4621ad;
+  background-color: #4621AD;
+  color: #fff;
+}
+.sign-btn .sign-up {
+  margin-left: 1.9665rem;
+  margin-right: 1.1665rem;
+}
+.sign-btn .gender {
+  display: flex;
+  width: 11.1415rem;
+  margin: 02.0095rem auto 0;
+}
+.sign-btn .man {
+  width: 5.176rem;
+  height: 5.835rem;
+  background-color: pink;
+  margin-right: .7895rem;
+  border-radius: .5rem;
+}
+.sign-btn .woman {
+  width: 5.176rem;
+  height: 5.835rem;
+  background-color: pink;
+  border-radius: .5rem;
+}
+.sign-btn input {
+  width: 12.8835rem;
+  height: 2.25rem;
+  border-radius: 1.15rem;
+  margin: 0 auto .8rem;
+  border: 1px solid #4621AD;
+  position: relative;
+}
+.sign-btn input::placeholder {
+  position: absolute;
+  top: .8rem;
+  left: 1.5rem;
+}
+.sign-btn .user-name {
+  margin-top: 2.5545rem;
+}
+.sign-btn .btn_plus {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 100%;
+  border: none;
+  background-color: #4723AE;
+  margin: 1.9335rem auto 1.5rem;
+}
+.sign-btn .btn_plus img {
+  width: 1.15rem;
+  height: 2.45rem;
 }
