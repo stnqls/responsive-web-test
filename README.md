@@ -8,7 +8,6 @@
 <img width="50%" src="https://user-images.githubusercontent.com/81519415/121849062-d8388980-cd25-11eb-8681-756ed81bc9f6.PNG"/>
 
 ### navigation bar 선택시 나타나는 효과
-
 ```css
 header nav ul a:hover {
   color: #fff;
