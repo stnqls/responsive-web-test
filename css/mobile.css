@@ -194,15 +194,30 @@ header .btn_menu.active{
 .sign-btn .man {
   width: 5.176rem;
   height: 5.835rem;
-  background-color: pink;
   margin-right: .7895rem;
   border-radius: .5rem;
+  border: 2px solid #4621AD;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sign-btn .man:hover{
+  background-color: #4621AD;
+}
+.sign-btn .man img {
+  width: 70%;
 }
 .sign-btn .woman {
   width: 5.176rem;
   height: 5.835rem;
-  background-color: pink;
   border-radius: .5rem;
+  border: 2px solid #4621AD;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sign-btn .woman img{
+  width: 70%;
 }
 .sign-btn input {
   width: 12.8835rem;
