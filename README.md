@@ -3,7 +3,7 @@
 ## PC버전 완성된 페이지
 <img width="70%" src="https://user-images.githubusercontent.com/81519415/121848642-49c40800-cd25-11eb-9df4-fdab1aa63e99.PNG"/>
 ## MOBILE버전 완성된 페이지
-<img width="70%" src="https://user-images.githubusercontent.com/81519415/121848659-4f215280-cd25-11eb-87eb-3fac7a0590aa.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/81519415/121848659-4f215280-cd25-11eb-87eb-3fac7a0590aa.png"/>
 
 
 ### navigation bar 선택시 나타나는 효과
