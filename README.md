@@ -4,7 +4,8 @@
 <img width="70%" src="https://user-images.githubusercontent.com/81519415/121848642-49c40800-cd25-11eb-9df4-fdab1aa63e99.PNG"/>
 ## MOBILE버전 완성된 페이지
 <img width="50%" src="https://user-images.githubusercontent.com/81519415/121848659-4f215280-cd25-11eb-87eb-3fac7a0590aa.png"/>
-
+## pc버전의 nav태그 변경부분
+<img width="50%" src="https://user-images.githubusercontent.com/81519415/121849062-d8388980-cd25-11eb-8681-756ed81bc9f6.PNG"/>
 
 ### navigation bar 선택시 나타나는 효과
 
